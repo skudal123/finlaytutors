@@ -1,4 +1,7 @@
-Name,Department,Birthday Month
-Alice,Counting,April
-Bob,Banking,June
-Carl,Gardener,November
+Name,Department,BirthdayMonth,Salary
+Alice,Counting,April,20000
+Bob,Banking,June,30000
+Carl,Gardening,November,90000
+David,Gardening,July,50000
+Emily,Gardening,December,50000
+Fredrick,Gardening,March,50000

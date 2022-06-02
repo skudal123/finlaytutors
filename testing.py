@@ -1,5 +1,3 @@
-a = 0 
-while (a != 10):
-    a = a+1
-    print (a)
-print("it is 10")
+
+newlist=["Alice", "Bob", "Carl"]
+print(newlist[]) 
